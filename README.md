@@ -2,6 +2,7 @@
 Resources for coding and studying
 
 Roadmap - https://roadmap.sh/ <br>
+Intro to CS - https://cs50.harvard.edu/x/2024/ <br>
 
 ## Coding Websites
 Leetcode - https://leetcode.com/ <br>
@@ -13,9 +14,8 @@ Coursera - https://www.coursera.org/ <br>
 Udemy - https://www.udemy.com/ <br>
 
 ## Coding Resources 
-https://drive.google.com/drive/folders/1tyYTM94BdOkCkvZCJ4a1gT5CYYb-EKDj <br>
-
-Intro to CS - https://cs50.harvard.edu/x/2024/ <br>
+TUF - https://takeuforward.org/ <br>
+merck_coding_challenge - https://drive.google.com/drive/folders/1tyYTM94BdOkCkvZCJ4a1gT5CYYb-EKDj <br>
 
 ## C/ C++
 
