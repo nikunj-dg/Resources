@@ -21,6 +21,10 @@ Intro to CS - https://cs50.harvard.edu/x/2024/ <br>
 
 ## Python 
 Intro to Python - https://cs50.harvard.edu/python/2022/ <br>
+Learn Python - https://mode.com/python-tutorial <br>
+
+## SQL 
+Learn SQL - https://mode.com/sql-tutorial <br>
 
 ## ML 
 Google ML - https://developers.google.com/machine-learning <br>
