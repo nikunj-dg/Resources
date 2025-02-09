@@ -3,6 +3,7 @@ Resources for coding and studying
 
 Roadmap - https://roadmap.sh/ <br>
 Intro to CS - https://cs50.harvard.edu/x/2024/ <br>
+Problems - https://github.com/hxu296/leetcode-company-wise-problems-2022 <br>
 
 ## Coding Websites
 Leetcode - https://leetcode.com/ <br>
