@@ -49,6 +49,7 @@ https://github.com/Dylan-Israel/ultimate-coding-resources <br>
 
 ### Extra Resources 
 https://www.reddit.com/r/LifeProTips/comments/ekshtf/lpt_you_can_access_most_mit_courses_for_free/ <br>
+https://neetcode.io/courses/lessons/how-to-use-neetcode-effectively <br>
 
 
 
