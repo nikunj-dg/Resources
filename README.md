@@ -44,6 +44,9 @@ Python Project for Data Engineering - https://www.coursera.org/learn/python-proj
 AZ Fundamentals 900 - https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM <br>
 AZ 900 - https://www.youtube.com/watch?v=8n-kWJetQRk <br>
 
+## Coding Interviews 
+https://github.com/jwasham/coding-interview-university <br>
+
 ### External Resources 
 https://github.com/Dylan-Israel/ultimate-coding-resources <br>
 
